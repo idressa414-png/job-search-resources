@@ -68,6 +68,7 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 - https://getsilverlining.com/job-board
 - https://github.com/poteto/hiring-without-whiteboards
 - https://hiretechladies.com
+- data:image/svg+xml,%3csvg%20width='12'%20height='12'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M10%208v2H2V2h2M5%206.933l4.667-4.6M6%202h4v4'%20stroke='%23202020'%20stroke-width='1.5'%20stroke-miterlimit='10'/%3e%3c/svg%3e
 - https://jobs.foodtechconnect.com
 - https://jobs.github.com
 - https://jobs.workable.com
